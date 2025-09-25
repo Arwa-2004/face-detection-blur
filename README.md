@@ -1,5 +1,5 @@
 # face-detection-blur
- Using haar cascade classifier for face detection and gaussian blur, I got this output of detecting 12 faces and blurring them:
+ Using haar cascade classifier for face detection and gaussian blur, I got this output of detecting 12 faces and blurring them, this can be applied in instances where identity privacy is crucial, and in the scope of Biomedical Engineering, it can be applied to anonymize patient identity:
  
  <p align="center">
 <img width="512" height="389" alt="__results___6_0" src="https://github.com/user-attachments/assets/48157f55-066b-4cff-9c45-8453e8c3ed5c" />
